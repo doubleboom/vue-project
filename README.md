@@ -1,3 +1,11 @@
+#vue-cli create webpack project
+```
+vue init webpack [projectname]
+cd [projectname]
+npm run dev
+```
+
+
 # vue-project
 
 > A Vue.js project
